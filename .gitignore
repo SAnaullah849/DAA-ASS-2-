@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+out/
+*.class
+__pycache__/
+*.py[cod]

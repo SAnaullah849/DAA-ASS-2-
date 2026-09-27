@@ -1,0 +1,5 @@
+n,avg_insert_time_ns,avg_extract_time_ns,total_comparisons,theoretical_batch_complexity,order_valid
+100,11760,18720,1035,O(n log n),true
+1000,97900,237360,17226,O(n log n),true
+10000,901920,2152960,239329,O(n log n),true
+100000,3621620,21612300,3059125,O(n log n),true
